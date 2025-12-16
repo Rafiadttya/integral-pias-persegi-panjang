@@ -1,2 +1,5 @@
 import streamlit as st
-st.write('hello world')
+
+st.title("Integral Pias Persegi Panjang")
+st.write("Aplikasi ini menghitung integral tentu secara numerik.")
+
