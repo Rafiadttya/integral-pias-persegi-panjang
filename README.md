@@ -1,3 +1,11 @@
-# integral-pias-persegi-panjang
-Aplikasi web sederhana untuk menghitung pendekatan integral tentu
-menggunakan metode pias persegi panjang dengan Streamlit.
+## Teknologi
+- Python
+- Streamlit
+- NumPy
+- SymPy
+
+## Cara Menjalankan
+1. Install library:
+   pip install -r requirements.txt
+2. Jalankan aplikasi:
+   streamlit run app.py
