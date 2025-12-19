@@ -1,3 +1,8 @@
+# Aplikasi Web Integral - Kaidah Pias Persegi Panjang
+
+Aplikasi web ini dibuat menggunakan Streamlit untuk menghitung pendekatan integral tentu
+dengan metode pias persegi panjang.
+
 ## Teknologi
 - Python
 - Streamlit
