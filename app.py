@@ -6,6 +6,7 @@ st.title("Aplikasi Integral - Kaidah Pias Persegi Panjang")
 st.write("Aplikasi ini menghitung pendekatan integral tentu menggunakan metode pias persegi panjang.")
 
 st.caption("Gunakan ** untuk pangkat dan * untuk perkalian. Contoh: x**2 + 2*x")
+fungsi_input = st.text_input
 
 a = st.number_input("Batas bawah (a)", value=0.0)
 b = st.number_input("Batas atas (b)", value=1.0)
