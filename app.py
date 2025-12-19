@@ -29,7 +29,8 @@ if st.button("Hitung Integral"):
         st.error("Fungsi tidak valid, periksa kembali input.")
 
 
- st.error("Fungsi tidak valid, periksa kembali input.")st.subheader("Metode yang Digunakan")
+st.error("Fungsi tidak valid, periksa kembali input.")
+st.subheader("Metode yang Digunakan")
 st.write(
     "Metode pias persegi panjang menghampiri luas daerah "
     "di bawah kurva dengan membagi interval menjadi beberapa pias."
